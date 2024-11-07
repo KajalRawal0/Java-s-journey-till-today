@@ -1,0 +1,1 @@
+This code will help you to perfrom such operation of an array.\n by using this code you can find out the sum of an array, also you can serach out the element thet ot is present in given array or not. \n It'll help you to find out the greater element of given array.
